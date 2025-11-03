@@ -3,6 +3,7 @@
 // Compile: gcc -std=c11 -O2 -o tictactoe tictactoe.c
 // Run: ./tictactoe
 // Author: Roman Kurchuk
+// Changes added: 10:35
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
