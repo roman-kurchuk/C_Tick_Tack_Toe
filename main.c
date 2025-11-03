@@ -2,7 +2,7 @@
 // Single-file tic-tac-toe with Human vs Human and Human vs Computer (Minimax)
 // Compile: gcc -std=c11 -O2 -o tictactoe tictactoe.c
 // Run: ./tictactoe
-
+// Author: Roman Kurchuk
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
